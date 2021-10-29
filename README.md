@@ -1,2 +1,2 @@
-# HTML-2
-Latihan HTML 2
+# HTML
+Latihan HTML
